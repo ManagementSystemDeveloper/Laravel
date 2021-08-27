@@ -1,0 +1,1 @@
+[10-Jul-2021 18:20:09 Europe/Amsterdam] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/repairsp/whatsapp.tifinbox.pk/vendor/symfony/finder/Iterator/RecursiveDirectoryIterator.php on line 77

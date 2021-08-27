@@ -1,0 +1,1 @@
+<span><?php echo e($time); ?></span><?php /**PATH /home/repairsp/whatsapp.tifinbox.pk/resources/views/orders/partials/time.blade.php ENDPATH**/ ?>
